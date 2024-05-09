@@ -3,5 +3,16 @@ Multiplayer Game Development with Unreal Engine 5, published by Packt
 
 [TBD] This is the code repository for [Artificial Intelligence in Unreal Engine 5](), published by Packt.
 
-**Unleash the Power of AI for Next-Gen Game Development with UE5**
+## Additional Information
 
+_**Important Note**: the following project files have been created by using Unreal Engine 5.4. However, with a minor effort, you will be able to run the project with Unreal Engine 5.5 or higher._
+
+### Chapter 4 - Setting up a navigation mesh
+
+* [Unreal Agility Arena - Starter Content]() (??.?' MB)
+
+## Credits
+
+* **Models**
+   * _KayKit Prototype Bits (1.0)_: created/distributed by [www.kaylousberg.com](http://www.kaylousberg.com)
+   * _KayKit Space Base Bits (1.0)_: created/distributed by [www.kaylousberg.com](http://www.kaylousberg.com)
