@@ -9,7 +9,7 @@ _**Important Note**: the following project files have been created by using Unre
 
 ### Chapter 4 - Setting up a navigation mesh
 
-* [Unreal Agility Arena - Starter Content](https://github.com/PacktPublishing/Artificial-Intelligence-in-Unreal-Engine-5/releases/download/starter-content/unrealagilityarena-starter-content.zip) (13.24 MB)
+* [Unreal Agility Arena - Starter Content](https://github.com/PacktPublishing/Artificial-Intelligence-in-Unreal-Engine-5/releases/download/starter-content/unrealagilityarena-starter-content.zip) (13.40 MB)
 
 ## Credits
 
