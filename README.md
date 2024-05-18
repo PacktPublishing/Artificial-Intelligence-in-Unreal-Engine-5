@@ -20,15 +20,11 @@ _**Important Note**: the following project files have been created by using Unre
 
 [TBD]
 
-### Chapter 7 - Introducing Behavior Trees
+### Chapter 8 - Setting up a Behavior Tree
 
 [TBD]
 
-### Chapter 8 - Setting up a Behavir Tree
-
-[TBD]
-
-### Chapter 9 - Extending Behavio Trees
+### Chapter 9 - Extending Behavior Trees
 
 [TBD]
 
