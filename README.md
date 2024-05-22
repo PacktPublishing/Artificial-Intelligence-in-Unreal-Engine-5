@@ -14,7 +14,7 @@ _**Important Note**: the following project files have been created by using Unre
 
 ### Chapter 5 - Improving Agent Navigation
 
-[TBD]
+* [Unreal Agility Arena - Chapter 05 - End](https://github.com/PacktPublishing/Artificial-Intelligence-in-Unreal-Engine-5/releases/download/uaa-chapter05-end/unrealagilityarena-chapter-05-end.zip) (13.65 MB)
 
 ### Chapter 6 - Optimizing the Navigation System
 
