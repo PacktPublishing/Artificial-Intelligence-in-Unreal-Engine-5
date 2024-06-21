@@ -18,7 +18,7 @@ _**Important Note**: the following project files have been created by using Unre
 
 ### Chapter 8 - Setting up a Behavior Tree
 
-[TBD]
+* [Unreal Agility Arena - Chapter 08 - End](https://github.com/PacktPublishing/Artificial-Intelligence-in-Unreal-Engine-5/releases/download/uaa-chapter08-end/unrealagilityarena-chapter-08-end.zip) (13.6 MB)
 
 ### Chapter 9 - Extending Behavior Trees
 
