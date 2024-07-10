@@ -22,7 +22,7 @@ _**Important Note**: the following project files have been created by using Unre
 
 ### Chapter 9 - Extending Behavior Trees
 
-[TBD]
+* [Unreal Agility Arena - Chapter 09 - End](https://github.com/PacktPublishing/Artificial-Intelligence-in-Unreal-Engine-5/releases/download/uaa-chapter09-end/unrealagilityarena-chapter-09-end.zip) (13.64 MB)
 
 ### Chapter 10 - Improving Agents with the Perception System
 
