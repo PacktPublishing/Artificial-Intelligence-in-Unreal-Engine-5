@@ -26,7 +26,7 @@ _**Important Note**: the following project files have been created by using Unre
 
 ### Chapter 10 - Improving Agents with the Perception System
 
-[TBD]
+* [Unreal Agility Arena - Chapter 10 - End](https://github.com/PacktPublishing/Artificial-Intelligence-in-Unreal-Engine-5/releases/download/uaa-chapter10-end/unrealagilityarena-chapter-10-end.zip) (13.7 MB)
 
 ### Chapter 11 - Understanding the Environment Query System
 
