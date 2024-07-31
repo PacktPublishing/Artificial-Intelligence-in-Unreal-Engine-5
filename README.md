@@ -30,7 +30,7 @@ _**Important Note**: the following project files have been created by using Unre
 
 ### Chapter 11 - Understanding the Environment Query System
 
-[TBD]
+* [Unreal Agility Arena - Chapter 11 - End](https://github.com/PacktPublishing/Artificial-Intelligence-in-Unreal-Engine-5/releases/download/uaa-chapter11-end/unrealagilityarena-chapter-11-end.zip) (13.72 MB)
 
 ### Chapter 12 - Using Hierarchical State Machines with StateTree
 
