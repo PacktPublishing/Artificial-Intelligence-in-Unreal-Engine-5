@@ -44,11 +44,11 @@ _**Important Note**: the following project files have been created by using Unre
 
 #### Chapter 13 - Implementing Data-Oriented Calculations with Mass Entity
 
-* [Unreal Agility Arena - Chapter 12 - End](https://github.com/PacktPublishing/Artificial-Intelligence-in-Unreal-Engine-5/releases/download/uaa-chapter-13-end/unrealagilityarena-chapter-13-end.zip) (38.69 MB)
+* [Unreal Agility Arena - Chapter 13 - End](https://github.com/PacktPublishing/Artificial-Intelligence-in-Unreal-Engine-5/releases/download/uaa-chapter-13-end/unrealagilityarena-chapter-13-end.zip) (38.69 MB)
 
 #### Chapter 14 - Implementing Interactable Elements with Smart Objects
 
-[TBD]
+* [Unreal Agility Arena - Chapter 14 - End](https://github.com/PacktPublishing/Artificial-Intelligence-in-Unreal-Engine-5/releases/download/uaa-chapter-14-end/unrealagilityarena-chapter-14-end.zip) (13.78 MB)
 
 ## Credits
 
