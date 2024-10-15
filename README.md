@@ -1,8 +1,8 @@
 # Artificial Intelligence in Unreal Engine 5
 
-<a href="https://www.packtpub.com/en-in/product/artificial-intelligence-in-unreal-engine-5-9781836205852"><img src="https://content.packt.com/B31016/cover_image_small.jpg" alt="" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/en-us/product/artificial-intelligence-in-unreal-engine-5-9781836205852"><img src="https://content.packt.com/B31016/cover_image_small.jpg" alt="" height="256px" align="right"></a>
 
-This is the code repository for [Artificial Intelligence in Unreal Engine 5](https://www.packtpub.com/en-in/product/artificial-intelligence-in-unreal-engine-5-9781836205852), published by Packt.
+This is the code repository for [Artificial Intelligence in Unreal Engine 5](https://www.packtpub.com/en-us/product/artificial-intelligence-in-unreal-engine-5-9781836205852), published by Packt.
 
 **Unleash the power of AI for next-gen game development with UE5 by using Blueprints and C++**
 
@@ -26,7 +26,6 @@ alt="https://www.packtpub.com/" border="5" /></a>
 
 
 ## Instructions and Navigations
-All of the code is organized into folders. For example, Chapter 02.
 
 The code will look like the following:
 ```
@@ -46,7 +45,7 @@ enum class EBatteryStatus : uint8
 
 This book is for game programmers, as well as Unreal Engine developers with little to no knowledge of AI systems in video games, who want to explore this topic in depth. Developers who are proficient in other game engines and are interested in understanding the principles of the Unreal AI framework will also benefit from this book. You’ll need basic knowledge of Unreal Engine and C++ and a strong passion for game development to get the most out of this book.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-12).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-14).
 
 ## Software and Hardware List
 
@@ -94,7 +93,7 @@ _**Important Note**: the following project files have been created by using Unre
 
 * [Unreal Agility Arena - Chapter 12 - End](https://github.com/PacktPublishing/Artificial-Intelligence-in-Unreal-Engine-5/releases/download/uaa-chapter-12-end/unrealagilityarena-chapter-12-end.zip) (13.60 MB)
 
-#### Chapter 13 - Implementing Data-Oriented Calculations with Mass Entity
+#### Chapter 13 - Implementing Data-Oriented Calculations with Mass
 
 * [Unreal Agility Arena - Chapter 13 - End](https://github.com/PacktPublishing/Artificial-Intelligence-in-Unreal-Engine-5/releases/download/uaa-chapter-13-end/unrealagilityarena-chapter-13-end.zip) (38.69 MB)
 
@@ -109,11 +108,11 @@ _**Important Note**: the following project files have been created by using Unre
    * _KayKit Space Base Bits (1.0)_: created/distributed by [www.kaylousberg.com](http://www.kaylousberg.com)
    
 ## Related products <Other books you may enjoy>
-* Cinematic Photoreal Environments in Unreal Engine 5  [[Packt]](https://www.packtpub.com/en-in/product/cinematic-photoreal-environments-in-unreal-engine-5-9781803244112) [[Amazon]](https://www.amazon.com/Cinematic-Photoreal-Environments-Unreal-Engine/dp/1803244119)
+* Cinematic Photoreal Environments in Unreal Engine 5  [[Packt]](https://www.packtpub.com/en-us/product/cinematic-photoreal-environments-in-unreal-engine-5-9781803244112) [[Amazon]](https://www.amazon.com/Cinematic-Photoreal-Environments-Unreal-Engine/dp/1803244119)
 
-* ​​Blueprints Visual Scripting for Unreal Engine 5  [[Packt]](https://www.packtpub.com/en-in/product/blueprints-visual-scripting-for-unreal-engine-5-9781801811583) [[Amazon]](https://www.amazon.com/Blueprints-Visual-Scripting-Unreal-Engine/dp/180181158X)
+* ​​Blueprints Visual Scripting for Unreal Engine 5  [[Packt]](https://www.packtpub.com/en-us/product/blueprints-visual-scripting-for-unreal-engine-5-9781801811583) [[Amazon]](https://www.amazon.com/Blueprints-Visual-Scripting-Unreal-Engine/dp/180181158X)
 
-## Get to Know the Authors
+## Get to Know the Author
 **Marco Secchi** is a freelance game developer who graduated in computer engineering at the Polytechnic
 University of Milan. He is a lecturer and lead game advisor at Nuova Accademia di Belle Arti (NABA)
 where he also mentors BA students in their final thesis projects. In his spare time, he reads a lot, plays
