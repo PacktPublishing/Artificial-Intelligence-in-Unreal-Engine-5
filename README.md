@@ -3,6 +3,63 @@ Multiplayer Game Development with Unreal Engine 5, published by Packt
 
 This is the code repository for [Artificial Intelligence in Unreal Engine 5](), published by Packt.
 
+# Artificial Intelligence in Unreal Engine 5
+
+<a href="https://www.packtpub.com/en-in/product/artificial-intelligence-in-unreal-engine-5-9781836205852"><img src="https://content.packt.com/B31016/cover_image_small.jpg" alt="" height="256px" align="right"></a>
+
+This is the code repository for [Artificial Intelligence in Unreal Engine 5](https://www.packtpub.com/en-in/product/artificial-intelligence-in-unreal-engine-5-9781836205852), published by Packt.
+
+**Unleash the power of AI for next-gen game development with UE5 by using Blueprints and C++**
+
+## What is this book about?
+Have you ever wondered how to create engaging gameplay experiences that involve formidable AI opponents, capable of challenging and pushing players to their limits? If the answer is yes, then get ready to enter the realm of AI creation with Unreal Engine 5.
+	
+This book covers the following exciting features:
+* Discover the basics of AI development in video games
+* Gain a deep understanding of the main actors in the Unreal Engine AI framework
+* Design and develop engaging AI actors for a game
+* Create dynamic and immersive AI experiences with behavior trees, navigation systems, MassEntity, and other AI features
+* Debug AI systems using dedicated Unreal Engine debugging tools
+* Extend the AI system with custom nodes and functions
+* Understand how to cope with the AI system by employing Blueprints and/or C++
+* Create games that focus on tactics, motion, and more
+
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1836205856) today!
+
+<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
+alt="https://www.packtpub.com/" border="5" /></a>
+
+
+## Instructions and Navigations
+All of the code is organized into folders. For example, Chapter 02.
+
+The code will look like the following:
+```
+#pragma once
+
+UENUM(BlueprintType)
+enum class EBatteryStatus : uint8
+{
+    EBS_Empty = 0 UMETA(DisplayName = "Empty"),
+    EBS_Low = 1 UMETA(DisplayName = "Low"),
+    EBS_Medium = 2 UMETA(DisplayName = "Medium"),
+    EBS_Full = 3 UMETA(DisplayName = "Full")
+};
+```
+
+**Following is what you need for this book:**
+
+This book is for game programmers, as well as Unreal Engine developers with little to no knowledge of AI systems in video games, who want to explore this topic in depth. Developers who are proficient in other game engines and are interested in understanding the principles of the Unreal AI framework will also benefit from this book. You’ll need basic knowledge of Unreal Engine and C++ and a strong passion for game development to get the most out of this book.
+
+With the following software and hardware list you can run all code files present in the book (Chapter 1-14).
+
+## Software and Hardware List
+
+| Chapter  | Software required                                       | OS required                      |
+| -------- | --------------------------------------------------------| ---------------------------------|
+| 1-14     | Unreal Engine 5.4                                       | Windows, macOS, or Linux         |
+| 1-14     | Visual Studio 2019 or 2022 and JetBrains Rider 2023+    | Windows, macOS, or Linux         |
+
 ## Additional Information
 
 _**Important Note**: the following project files have been created by using Unreal Engine 5.4. However, with a minor effort, you will be able to run the project with Unreal Engine 5.5 or higher._
@@ -55,3 +112,14 @@ _**Important Note**: the following project files have been created by using Unre
 * **Models**
    * _KayKit Prototype Bits (1.0)_: created/distributed by [www.kaylousberg.com](http://www.kaylousberg.com)
    * _KayKit Space Base Bits (1.0)_: created/distributed by [www.kaylousberg.com](http://www.kaylousberg.com)
+   
+## Related products <Other books you may enjoy>
+* Cinematic Photoreal Environments in Unreal Engine 5  [[Packt]](https://www.packtpub.com/en-in/product/cinematic-photoreal-environments-in-unreal-engine-5-9781803244112) [[Amazon]](https://www.amazon.com/Cinematic-Photoreal-Environments-Unreal-Engine/dp/1803244119)
+
+* ​​Blueprints Visual Scripting for Unreal Engine 5  [[Packt]](https://www.packtpub.com/en-in/product/blueprints-visual-scripting-for-unreal-engine-5-9781801811583) [[Amazon]](https://www.amazon.com/Blueprints-Visual-Scripting-Unreal-Engine/dp/180181158X)
+
+## Get to Know the Authors
+**Marco Secchi** is a freelance game developer who graduated in computer engineering at the Polytechnic
+University of Milan. He is a lecturer and lead game advisor at Nuova Accademia di Belle Arti (NABA)
+where he also mentors BA students in their final thesis projects. In his spare time, he reads a lot, plays
+video games (less than he would like), and tries to practice CrossFit.
