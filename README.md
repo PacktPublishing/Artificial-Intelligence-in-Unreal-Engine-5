@@ -89,7 +89,7 @@ _**Important Note**: the following project files have been created by using Unre
 
 ### Part 4
 
-#### Chapter 12 - Using Hierarchical State Machines with StateTree
+#### Chapter 12 - Using Hierarchical State Machines with State Trees
 
 * [Unreal Agility Arena - Chapter 12 - End](https://github.com/PacktPublishing/Artificial-Intelligence-in-Unreal-Engine-5/releases/download/uaa-chapter-12-end/unrealagilityarena-chapter-12-end.zip) (13.60 MB)
 
