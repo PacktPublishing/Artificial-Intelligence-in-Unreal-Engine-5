@@ -1,9 +1,4 @@
 # Artificial Intelligence in Unreal Engine 5
-Multiplayer Game Development with Unreal Engine 5, published by Packt
-
-This is the code repository for [Artificial Intelligence in Unreal Engine 5](), published by Packt.
-
-# Artificial Intelligence in Unreal Engine 5
 
 <a href="https://www.packtpub.com/en-in/product/artificial-intelligence-in-unreal-engine-5-9781836205852"><img src="https://content.packt.com/B31016/cover_image_small.jpg" alt="" height="256px" align="right"></a>
 
@@ -51,7 +46,7 @@ enum class EBatteryStatus : uint8
 
 This book is for game programmers, as well as Unreal Engine developers with little to no knowledge of AI systems in video games, who want to explore this topic in depth. Developers who are proficient in other game engines and are interested in understanding the principles of the Unreal AI framework will also benefit from this book. You’ll need basic knowledge of Unreal Engine and C++ and a strong passion for game development to get the most out of this book.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-14).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-12).
 
 ## Software and Hardware List
 
